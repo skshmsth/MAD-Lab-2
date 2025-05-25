@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="MAD-Lab-2" target="21" />
+      <module name="MAD-Lab-2.app" target="21" />
+      <module name="MAD_Lab_2" target="21" />
+      <module name="MAD_Lab_2.app" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
